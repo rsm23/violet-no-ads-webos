@@ -1,6 +1,6 @@
-# Violet No Ads for LG webOS
+# No Ads Purple for LG webOS
 
-![Violet No Ads](https://github.com/rsm23/violet-no-ads-webos/releases/latest/download/icon.png)
+![No Ads Purple](https://github.com/rsm23/violet-no-ads-webos/releases/latest/download/icon.png)
 
 Install and update through **webOS Homebrew Channel**. This repository distributes install packages and catalog metadata; the development repository is private.
 
@@ -13,10 +13,10 @@ Install and update through **webOS Homebrew Channel**. This repository distribut
    https://github.com/rsm23/violet-no-ads-webos/releases/latest/download/apps.json
    ```
 
-3. Return to the app catalog and select **Violet No Ads**.
+3. Return to the app catalog and select **No Ads Purple**.
 4. Select **Install** or **Update**. Installation does not launch the app.
 
-The launcher currently lists the app as **Twitch Alt Player**, with the **Violet No Ads** icon. An already installed copy with the same app ID is updated in place. If the installed version matches, Homebrew Channel disables Update; pressing **5** on the app details page enables Reinstall.
+The launcher and Homebrew catalog both show **No Ads Purple** with the matching typographic icon. An already installed copy with the same app ID is updated in place. If the installed version matches, Homebrew Channel disables Update; pressing **5** on the app details page enables Reinstall.
 
 The PC does not need to be running. Future releases use the same repository URL. Do not install updates while this app is playing a stream.
 
